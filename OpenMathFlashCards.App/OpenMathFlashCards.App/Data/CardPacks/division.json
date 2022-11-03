@@ -1,0 +1,522 @@
+{
+  "packName": "Division",
+  "cards": [
+    {
+      "leftOperand": 0,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 2,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 3,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 4,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 5,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 6,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 7,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 8,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 9,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 10,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 11,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 12,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 13,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 14,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 15,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 16,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 17,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 18,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 19,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 0,
+      "rightOperand": 20,
+      "operator": "DIV",
+      "result": 0
+    },
+    {
+      "leftOperand": 1,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 2,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 2
+    },
+    {
+      "leftOperand": 2,
+      "rightOperand": 2,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 3,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 3
+    },
+    {
+      "leftOperand": 3,
+      "rightOperand": 3,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 4,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 4
+    },
+    {
+      "leftOperand": 4,
+      "rightOperand": 2,
+      "operator": "DIV",
+      "result": 2
+    },
+    {
+      "leftOperand": 4,
+      "rightOperand": 4,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 5,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 5
+    },
+    {
+      "leftOperand": 5,
+      "rightOperand": 5,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 6,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 6
+    },
+    {
+      "leftOperand": 6,
+      "rightOperand": 2,
+      "operator": "DIV",
+      "result": 3
+    },
+    {
+      "leftOperand": 6,
+      "rightOperand": 3,
+      "operator": "DIV",
+      "result": 2
+    },
+    {
+      "leftOperand": 6,
+      "rightOperand": 6,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 7,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 7
+    },
+    {
+      "leftOperand": 7,
+      "rightOperand": 7,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 8,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 8
+    },
+    {
+      "leftOperand": 8,
+      "rightOperand": 2,
+      "operator": "DIV",
+      "result": 4
+    },
+    {
+      "leftOperand": 8,
+      "rightOperand": 4,
+      "operator": "DIV",
+      "result": 2
+    },
+    {
+      "leftOperand": 8,
+      "rightOperand": 8,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 9,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 9
+    },
+    {
+      "leftOperand": 9,
+      "rightOperand": 3,
+      "operator": "DIV",
+      "result": 3
+    },
+    {
+      "leftOperand": 9,
+      "rightOperand": 9,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 10,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 10
+    },
+    {
+      "leftOperand": 10,
+      "rightOperand": 2,
+      "operator": "DIV",
+      "result": 5
+    },
+    {
+      "leftOperand": 10,
+      "rightOperand": 5,
+      "operator": "DIV",
+      "result": 2
+    },
+    {
+      "leftOperand": 10,
+      "rightOperand": 10,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 11,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 11
+    },
+    {
+      "leftOperand": 11,
+      "rightOperand": 11,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 12,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 12
+    },
+    {
+      "leftOperand": 12,
+      "rightOperand": 2,
+      "operator": "DIV",
+      "result": 6
+    },
+    {
+      "leftOperand": 12,
+      "rightOperand": 3,
+      "operator": "DIV",
+      "result": 4
+    },
+    {
+      "leftOperand": 12,
+      "rightOperand": 4,
+      "operator": "DIV",
+      "result": 3
+    },
+    {
+      "leftOperand": 12,
+      "rightOperand": 6,
+      "operator": "DIV",
+      "result": 2
+    },
+    {
+      "leftOperand": 12,
+      "rightOperand": 12,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 13,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 13
+    },
+    {
+      "leftOperand": 13,
+      "rightOperand": 13,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 14,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 14
+    },
+    {
+      "leftOperand": 14,
+      "rightOperand": 2,
+      "operator": "DIV",
+      "result": 7
+    },
+    {
+      "leftOperand": 14,
+      "rightOperand": 7,
+      "operator": "DIV",
+      "result": 2
+    },
+    {
+      "leftOperand": 14,
+      "rightOperand": 14,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 15,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 15
+    },
+    {
+      "leftOperand": 15,
+      "rightOperand": 3,
+      "operator": "DIV",
+      "result": 5
+    },
+    {
+      "leftOperand": 15,
+      "rightOperand": 5,
+      "operator": "DIV",
+      "result": 3
+    },
+    {
+      "leftOperand": 15,
+      "rightOperand": 15,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 16,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 16
+    },
+    {
+      "leftOperand": 16,
+      "rightOperand": 2,
+      "operator": "DIV",
+      "result": 8
+    },
+    {
+      "leftOperand": 16,
+      "rightOperand": 4,
+      "operator": "DIV",
+      "result": 4
+    },
+    {
+      "leftOperand": 16,
+      "rightOperand": 8,
+      "operator": "DIV",
+      "result": 2
+    },
+    {
+      "leftOperand": 16,
+      "rightOperand": 16,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 17,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 17
+    },
+    {
+      "leftOperand": 17,
+      "rightOperand": 17,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 18,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 18
+    },
+    {
+      "leftOperand": 18,
+      "rightOperand": 2,
+      "operator": "DIV",
+      "result": 9
+    },
+    {
+      "leftOperand": 18,
+      "rightOperand": 3,
+      "operator": "DIV",
+      "result": 6
+    },
+    {
+      "leftOperand": 18,
+      "rightOperand": 6,
+      "operator": "DIV",
+      "result": 3
+    },
+    {
+      "leftOperand": 18,
+      "rightOperand": 9,
+      "operator": "DIV",
+      "result": 2
+    },
+    {
+      "leftOperand": 18,
+      "rightOperand": 18,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 19,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 19
+    },
+    {
+      "leftOperand": 19,
+      "rightOperand": 19,
+      "operator": "DIV",
+      "result": 1
+    },
+    {
+      "leftOperand": 20,
+      "rightOperand": 1,
+      "operator": "DIV",
+      "result": 20
+    },
+    {
+      "leftOperand": 20,
+      "rightOperand": 2,
+      "operator": "DIV",
+      "result": 10
+    },
+    {
+      "leftOperand": 20,
+      "rightOperand": 4,
+      "operator": "DIV",
+      "result": 5
+    },
+    {
+      "leftOperand": 20,
+      "rightOperand": 5,
+      "operator": "DIV",
+      "result": 4
+    },
+    {
+      "leftOperand": 20,
+      "rightOperand": 10,
+      "operator": "DIV",
+      "result": 2
+    },
+    {
+      "leftOperand": 20,
+      "rightOperand": 20,
+      "operator": "DIV",
+      "result": 1
+    }
+
+  ]
+}
